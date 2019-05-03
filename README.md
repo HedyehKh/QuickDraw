@@ -36,6 +36,6 @@ where **newC_sample** is the weighted confidence of the classifier for the predi
 
    [Quick, Draw!]: <https://quickdraw.withgoogle.com/>
    [Quick, Draw! Doodle Recognition Challenge]: <https://www.kaggle.com/c/quickdraw-doodle-recognition#description>
-   [WaveNet] <https://arxiv.org/abs/1609.03499>
-   [LSTM] <https://www.tensorflow.org/tutorials/sequences/recurrent_quickdraw>
+   [WaveNet]: <https://arxiv.org/abs/1609.03499>
+   [LSTM]: <https://www.tensorflow.org/tutorials/sequences/recurrent_quickdraw>
    
